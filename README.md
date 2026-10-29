@@ -1,6 +1,5 @@
-# MG 42 Iron Sights 
-**v2025-11-28**
----
+# MG 42 Iron Sights
+
 ## Description:
 This mod replaces the built-in crosshair on the MG42 model and adjusts the first person camera so it is aligned with the iron sights.
 
